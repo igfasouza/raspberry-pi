@@ -1,3 +1,3 @@
 # raspberry-pi
 
-Raspberry Pi study examples 
+Raspberry Pi and Sense Hat study examples
